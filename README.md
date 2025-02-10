@@ -1,3 +1,3 @@
 # Chefkart-Clone
-MERN Application
-Ongoing
+A complete MERN Application
+
